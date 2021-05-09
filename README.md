@@ -16,7 +16,7 @@ The generator could follow any theme and I chose to do a play on a 3 card Tarot 
 The mandatory component of this brief was that the program's random message be made up of at least three different pieces of data
 
 ## Sample Output
-![Image of sample](https://)
+![Image of samplemsg](https://github.com/CodingSimz/MixedMsgs/samplemsg.png)
 
 ## Technologies
 - JavaScript
